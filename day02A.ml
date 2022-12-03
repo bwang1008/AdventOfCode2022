@@ -1,4 +1,4 @@
-(** Run with "$ ocaml day01A.ml" *)
+(** Run with "$ ocaml day02A.ml" *)
 
 (** function to read input from file copied from https://stackoverflow.com/questions/5774934/how-do-i-read-in-lines-from-a-text-file-in-ocaml *)
 
