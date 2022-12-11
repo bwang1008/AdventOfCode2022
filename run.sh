@@ -6,4 +6,3 @@
 last_modified_file=$(ls -t *.ml | head -1)
 echo "Running $last_modified_file"
 ocaml $last_modified_file
-
