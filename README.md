@@ -10,3 +10,9 @@ ocaml day01.ml
 ```
 
 My specific inputs live in the `inputs/` folder.
+
+For some reason, my environment was not correctly configured after a while. I fixed it by running
+```
+eval $(opam env)
+```
+later, based on `https://ocaml.org/docs/up-and-running#3-create-an-opam-switch`.
